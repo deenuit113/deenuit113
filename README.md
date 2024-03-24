@@ -14,5 +14,5 @@
 #### 웹사이트
 
 <p align="center">
-    💡 Notion link : https://www.notion.so/jonghyeok-developer/a1aab8db15554cdca246ade0079cadf5
+    💡 Notion link : https://jonghyeok-developer.notion.site/39dc2f811af54bbc9ea7528d772954cc?pvs=4
 </p>
